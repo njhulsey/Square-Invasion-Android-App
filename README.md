@@ -5,3 +5,6 @@ WHAT I LEARNED:
 - Using my skills with Java to make an app
 - Android development (Android studio)
 - Use of particle effects to bring more character to my game
+
+Google play store page:
+https://play.google.com/store/apps/details?id=com.nickhulsey.game&hl=en

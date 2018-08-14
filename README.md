@@ -1,5 +1,5 @@
 # Square-Invasion-Android-App
-During my sophomore year in highschool, I took the winter season off from sports to develop my own android app. The app is called square invasion and can be downloaded on the google play store. 
+During my sophomore year of highschool, I took the winter sports season off to develop my own android app. The app is called square invasion and can be downloaded on the google play store. 
 
 WHAT I LEARNED:
 - Using my skills with Java to make an app
